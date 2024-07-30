@@ -1,0 +1,6 @@
+@efcore_test_HostAddress = http://localhost:5271
+
+GET {{efcore_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
